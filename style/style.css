@@ -1,0 +1,10 @@
+@media only screen and (max-device-width: 480px) {
+    
+    #entrar{
+        margin-top: 15px !important;
+    }
+
+    #pesquisa{
+        margin-top: 5px !important;
+    }
+ }
